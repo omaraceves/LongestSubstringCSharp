@@ -1,5 +1,7 @@
 # LongestSubstringCSharp
-Length of longest substring without repeting characters leet code submission in C#
+Length of longest substring without repeating characters leet code submission in C#
+
+Longest substring without repeating characters.
 
 Given a string, find the length of the longest substring without repeating characters.
 
